@@ -2,4 +2,4 @@
 
 ## Boilerplate
 
-React + Material UI + React Router Dom + Firebase + ContextAPI
+React + Typescript + Material UI + React Router Dom + Firebase + ContextAPI
