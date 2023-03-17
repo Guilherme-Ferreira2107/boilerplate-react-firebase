@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  min-height: calc(100vh - 120px);
+}
+
+.container-layout {
+  width: 100%;
+  max-width: 1300px;
+  padding: 0.75rem 2rem 4rem;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.message-error {
+  color: red;
+}
+
+.bg-paper {
+  background: rgba(0, 0, 0, 0.05);
+}
